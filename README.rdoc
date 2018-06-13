@@ -9,6 +9,9 @@
 * run rake db:create
 * run rake db:migrate
 
+* visit live site at: https://radiant-crag-37273.herokuapp.com/events/new
+* set ping with kaffeine http://kaffeine.herokuapp.com/
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
