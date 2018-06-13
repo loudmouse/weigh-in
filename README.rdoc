@@ -1,5 +1,14 @@
 == WEIGHT TRACKER README
 
+* Download the repository to your local machine
+* Make sure ruby-2.3.3 is installed
+* run gem update rails to ensure railties (4.1.8) is installed
+* Run bundle install
+* Make sure rails is installed
+* start rails server
+* run rake db:create
+* run rake db:migrate
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
